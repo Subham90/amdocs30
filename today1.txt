@@ -1,4 +1,5 @@
 kafka data warehouse 
 aws glue athena
 redshift aws data warehous 
-nccndnjdncnd jcdjcd jcjd 
+nccndnjdncnd jcdjcd jcjd
+def fun(): bcz he told
