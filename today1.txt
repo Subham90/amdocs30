@@ -1,3 +1,4 @@
 kafka data warehouse 
 aws glue athena
-redshift aws data warehouse 
+redshift aws data warehous 
+nccndnjdncnd jcdjcd jcjd 
